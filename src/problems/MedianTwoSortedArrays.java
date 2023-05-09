@@ -1,3 +1,5 @@
+package problems;
+
 public class MedianTwoSortedArrays {
     public static void main(String[] args) {
         System.out.println(findMedianSortedArrays(new int[]{}, new int[]{1}));
